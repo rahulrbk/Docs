@@ -80,7 +80,7 @@ else{
      * ' or 1=1/*
      * ') or '1'='1--
      * ') or ('1'='1--
-> ![Final](Capture1.png)
+> ![Final](https://github.com/rahulrbk/rahul.github.io/blob/master/Capture1.PNG)
 
 
 
