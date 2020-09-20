@@ -65,9 +65,9 @@ else{
 ?>
 ```
 ## Next Steps
-```sh
-  Open any Web browser and try to connect the webserver <mark>127.0.0.1/database/index.php/</mark>
-```   
+
+1.  Open any Web browser and try to connect the webserver <mark>127.0.0.1/database/index.php/</mark>
+   
 # Steps to Bypass the Login Webpage
 > Using sql injection trying different approached.
   * SQL Injection 101, Login tricks
