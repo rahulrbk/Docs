@@ -74,11 +74,12 @@ else{
 # Steps to Bypass the Login Webpage
 > Using sql injection trying different approached.
   * SQL Injection 101, Login tricks
-   >Also uses '#' which is for comments, essentially causing SQL to ignore anything that would come after our injection
+    * Also uses '#' which is for comments, essentially causing SQL to ignore anything that would come after our injection
+    * Might also try '--'
+    * With - -, they put an (SM) next to it, meaning that it works for SQL Server & MySQL, and by the way it also works for SQLite, PostgreSQL, and Oracle.
+    On the other hand, # sign also works with MySQL.
    ---
-   >Might also try '--'
-   ---
-   
+
 
      * admin' --
      * admin' #
