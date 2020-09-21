@@ -68,12 +68,17 @@ else{
 
 1.  Open any Web browser and try to connect the webserver 
 ```sh
-127.0.0.1/database/index.php/
+ 127.0.0.1/database/index.php/
 ```
    
 # Steps to Bypass the Login Webpage
 > Using sql injection trying different approached.
   * SQL Injection 101, Login tricks
+   >Also uses '#' which is for comments, essentially causing SQL to ignore anything that would come after our injection
+   ---
+   >Might also try '--'
+   ---
+   
 
      * admin' --
      * admin' #
