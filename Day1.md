@@ -1,6 +1,4 @@
-# Day One Task
-
-   ## DNS records
+   # DNS records
    ## Linux cli
    ## Websites:
  1. census.io
